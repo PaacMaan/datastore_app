@@ -1,0 +1,54 @@
+
+
+span[data-annotation='IRRITANT']:before {
+  content: "💣";
+}
+
+span[data-annotation='IRRITANT'] {
+  background: #fff5cc;
+  padding: 0.2em 0.2em 0.2em 0.2em;
+}
+
+span[data-annotation='IRRITANT']:after {
+  content: "";
+}
+
+span[data-annotation='SERVICE']:before {
+  content: "🏛️";
+}
+
+span[data-annotation='SERVICE'] {
+  background: #e0ebeb;
+  padding: 0.2em 0.2em 0.2em 0.2em;
+}
+
+span[data-annotation='SERVICE']:after {
+  content: "";
+}
+
+span[data-annotation='PRODUCT']:before {
+  content: "💊";
+}
+
+span[data-annotation='PRODUCT'] {
+  background: #ffd9cc;
+  padding: 0.2em 0.2em 0.2em 0.2em;
+}
+
+span[data-annotation='PRODUCT']:after {
+  content: "";
+}
+
+span[data-annotation='ATTENTE']:before {
+  content: "⚰";
+}
+
+span[data-annotation='ATTENTE'] {
+  background: #cce6ff;
+  padding: 0.2em 0.2em 0.2em 0.2em;
+}
+
+span[data-annotation='ATTENTE']:after {
+  content: "";
+}
+

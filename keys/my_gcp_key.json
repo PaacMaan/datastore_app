@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yahya-project-307810",
+  "private_key_id": "8833e2b8447508c92bf2b0c6b6acb18b9303e67b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFboTzQJ+4xrdR\n2hYG3zyfadPuN6jmflzdwfVkUQcVkKFWmVx8K3aIYpsCpjfXKpRdShq32kT+3ix9\n5y0B26QCQ06rvl0bHbqoozpt1UjWcXLWXaJLt1mzt+y241LSFguw8U7zVL7jt65v\nVVWKbNGxs8xcAkgvbtK5RiYylSO9KxNs0Oo7K8Hl7xS4s/7mVgbEGZddvqmUBMtz\nMfTXWSyAnPNKvhzbCrxRYYTTIV3acw6R8MfLbYVV7ou3xsg3lRaT/Pahi8oQ57lw\nyzqbGn447NON8kN+5jpdszxTbFTTAYPYzPzgi1kVg+X/8T0xaFoKQzXUyHDVwQzZ\n3PNRuJv9AgMBAAECggEAUayMTHMuAAsY2EAff51HH21wsmoNMbkRot1zrhnFE/s+\neyw7cdSrFvWvyZNIo3bmZIdc8TTW+RahEj6ZxFyABz2f5HV+X9LXHp9T8w7aMHhD\nOQIIO0lwzuOmBeyZnPZoxLy22/vxchPREhabqgWlY92NC30YLqMqgmHOOHuxCrZ2\ng6MM519zn4/sCh+jl+PpsbfiR+7kiQ0aFlWoREdhW/tu64QlIUReX2E9eOCT3YWY\nbXg1x7zRaj4dThnsMskLuLf5MJHNXb4DnNsXkLUvhWizweiMpMmKnU+jgoyVJnXw\nTMUH/O9AKDfJbG5gJiF2/4PHVAdJxGwv623DsgBc4wKBgQDrFdY8wg8s0FO6oBbX\nHdkVrraI5bsjdb2bAaG70BozqGyXCWiEY0VAP7A/vU/APXclRSU/B6yotmXPcJTN\nhvPHdofruYNJmzh3ubxO1vrQ6o1f7KgvNcIvpAYUrW99yKbM3QQGDAEuew58Cn+B\nh6wTIlaVxy3NGcUdfz8stsycwwKBgQDW/xtX8ZqXpxKZo5Fef1PduacGB2kUAZ+h\niDuDZKnx1ubnSXCrp+PuPZggPBzC7JzmyG8GGZqBRqbWcPKgdKFXjxJ0Vz3/smHN\nJOHFv3FPUceMfuuombPMyx1AyFMLFkeFPRE3NZ2cw2lHaoTTM/3E05GEIPlmzzRp\nd8SsRulYPwKBgBndxjvbMmZA6eWP9dNnklpDZgw8EtI9A0bJ8CzFIgzrDD+2Jkzi\ny1zdZRwuTVcerDxqlkWQJ5xMrXkcrxLKNYqN7TivqdVwgc8SnbijCOfx1upmFL9V\nD+/EAXNG/gx+BnRmISo1KfAeVCKr2Qm8jt9wGMzUJKL7oeez95SI7IyXAoGBALdl\nJY3/Kj/y5IrqXDafpoqcsz0RVTEbsW+5JgsO82i4SH9CxjmnHWc8Y2gb3uznqW+z\nygEKFiHwgqCp+E2nL3nhMXzMbraPE55Kt8xXYfCncfEG0z8e3aD0IiAAwdXTS278\niJLvyWLPzh59XpBK6U3cq2RqPFTWq37MC5hpZONBAoGBAMn6CuS+R5J8saghe5Tz\ngDRcQLzZxxDa2yav90LeRVe6wlJr1uEcts9pUMTe8balG3lQjscwPeEZyjI7UP/i\nMCcomgENgVk4pS0HnymBeX0IylOuvWF4DN5a3zIHSCBIAYX7lo3cVLttSzn91zDJ\n5V/jRemdc3Cm/KB2wf8WtaD9\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastore-python@yahya-project-307810.iam.gserviceaccount.com",
+  "client_id": "100589105716975068588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastore-python%40yahya-project-307810.iam.gserviceaccount.com"
+}
